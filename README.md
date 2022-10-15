@@ -1,6 +1,6 @@
 # GAN (Generative Adversarial Networks)
 
-Task : Generate new data instance similar to original data instance <br />
+Task : Generate new data instance similar to original data instance using GAN <br />
 Environment : Anaconda, Pytorch <br />
 Dataset : MNIST <br />
 <br />
